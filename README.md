@@ -16,13 +16,13 @@ Each of the above options (except for speech recogntion), redirects to a new act
 Starting with the Start button, the user is asked to access the device's location and if he presses accept then it is automatically directed to the settings to activate the location. The steps are represented below with a screenshot
 
 <p align="center">
-  <img src="https://github.com/chronis98/SpeedometerPlus/blob/master/screen3.png" width="550">
+  <img src="https://github.com/chronis98/SpeedometerPlus/blob/master/screen3.png" width="650">
  </p>
  
 After the user follows the above steps with success, the speed measurement begins. In case the speed exceeds the kilometer limit entered by the user, the background color of the application becomes red, a warning message is generated with a voice promp and the violation is automatically recorded in the database as a new record. The corresponding screenshots follow
 
 <p align="center">
-  <img src="https://github.com/chronis98/SpeedometerPlus/blob/master/screen4.jpg" width="550" >
+  <img src="https://github.com/chronis98/SpeedometerPlus/blob/master/screen4.jpg" width="650" >
  </p>
 
 
