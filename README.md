@@ -1,5 +1,5 @@
 # SpeedometerPlus
-Speedometer application using GPS location sensor
+Speedometer application using GPS location sensor.
 
 # Speedometer 
 Initially the application starts in an activity with 4 options, which has the role of a menu of functions
